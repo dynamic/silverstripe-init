@@ -1,0 +1,6 @@
+/vendor/
+.DS_Store
+_ss_environment.php
+silverstripe.log
+silverstripe-cache
+/assets/
